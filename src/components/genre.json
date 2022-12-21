@@ -1,6 +1,10 @@
 [
     {
-      "value": "trendins",
+      "value":"allgenres",
+      "label": "All Genres"
+    },
+    {
+      "value": "trending",
       "label": "Trending"
     },
     {

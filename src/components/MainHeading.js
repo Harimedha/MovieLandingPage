@@ -6,8 +6,8 @@ function MainHeading(){
             maxwidth:'100rem'                       
         }}>
         <div style={{           
-            boxShadow: '1px 2px 20px #2f4f4f',
-            margin: '1em',
+            boxShadow: '1px 3px 40px maroon',
+            margin: '0.5em',
             padding: '0.5em',
             fontFamily: 'Franklin Gothic Medium',
             textAlign: 'center',
@@ -15,7 +15,8 @@ function MainHeading(){
             fontSize:'x-large',
             backgroundColor:'black',
             color:'red',
-            border:'none'
+            border:'none',
+            borderRadius : '2rem'
 
         }}>
             REACTFLIX
