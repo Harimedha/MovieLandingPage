@@ -1,0 +1,23 @@
+[
+    {
+      "value": "trendins",
+      "label": "Trending"
+    },
+    {
+      "value": "adventure",
+      "label": "Adventure"
+    },
+    {
+      "value": "drama",
+      "label": "Drama"
+    },
+    {
+      "value": "action",
+      "label": "Action"
+    },
+    {
+      "value": "crime",
+      "label": "Crime"
+    }
+  ]
+  

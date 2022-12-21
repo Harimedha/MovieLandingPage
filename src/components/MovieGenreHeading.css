@@ -1,0 +1,41 @@
+.html,body{
+    margin:0;
+    border:0;
+}
+.genre-container{
+
+    display:flex;
+    flex-direction: row;
+    margin-left: 40px;
+    height: 20px;
+    padding:10px 0 20px 0;
+}
+.genre-card{
+
+    margin-right: 50px;
+}
+.genre-button{
+
+    width: 100px;
+    height: 30px;
+    display: inline-block; 
+    /* trying inline-block style */
+    border-radius: 2rem;
+    color:black;
+    background-color: red;
+    text-align: center;
+    cursor: pointer;
+    padding-right: 10px;
+   
+}
+.genre-button:active{
+
+    background-color: rebeccapurple;
+}
+.genre-button:hover{
+
+    box-shadow: 0 5px grey;
+    background-color: brown;
+    transform: translateY(5px);
+}
+
